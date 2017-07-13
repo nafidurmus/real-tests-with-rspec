@@ -1,0 +1,19 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    i18n (0.8.6)
+    monetize (1.7.0)
+      money (~> 6.9)
+    money (6.9.0)
+      i18n (>= 0.6.4, < 0.9)
+
+PLATFORMS
+  ruby
+  x86-mingw32
+
+DEPENDENCIES
+  monetize
+  money
+
+BUNDLED WITH
+   1.14.6
